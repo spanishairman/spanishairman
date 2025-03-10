@@ -1,13 +1,13 @@
 ## Hi there, I'm Max 👋
 <p>
-<img height="32" width="32" src="/icons/linux.png">
-<img height="32" width="32" src="/icons/debian.png">
-<img height="32" width="32" src="/icons/opensuse.png">
-<img height="32" width="32" src="/icons/ansible.png">
-<img height="32" width="32" src="/icons/vagrant.png">
-<img height="32" width="32" src="/icons/postgresql.png">
-<img height="32" width="32" src="/icons/diagramsdotnet.png">
-<img height="32" width="32" src="/icons/nginx.png">
+<img height="45" width="45" src="/icons/linux.png">
+<img height="45" width="45" src="/icons/debian.png">
+<img height="45" width="45" src="/icons/opensuse.png">
+<img height="45" width="45" src="/icons/ansible.png">
+<img height="45" width="45" src="/icons/vagrant.png">
+<img height="45" width="45" src="/icons/postgresql.png">
+<img height="45" width="45" src="/icons/diagramsdotnet.png">
+<img height="45" width="45" src="/icons/nginx.png">
 </p>
 
 <!--
