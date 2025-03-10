@@ -1,13 +1,14 @@
 ## Hi there, I'm Max 👋
-
-<img height="32" width="32" src="/icons/linux.png" />
-<img height="32" width="32" src="/icons/debian.png" />
-<img height="32" width="32" src="/icons/opensuse.png" />
-<img height="32" width="32" src="/icons/ansible.png" />
-<img height="32" width="32" src="/icons/vagrant.png" />
-<img height="32" width="32" src="/icons/postgresql.png" />
-<img height="32" width="32" src="/icons/diagramsdotnet.png" />
-<img height="32" width="32" src="/icons/nginx.png" />
+<p>
+<img height="32" width="32" src="/icons/linux.png">
+<img height="32" width="32" src="/icons/debian.png">
+<img height="32" width="32" src="/icons/opensuse.png">
+<img height="32" width="32" src="/icons/ansible.png">
+<img height="32" width="32" src="/icons/vagrant.png">
+<img height="32" width="32" src="/icons/postgresql.png">
+<img height="32" width="32" src="/icons/diagramsdotnet.png">
+<img height="32" width="32" src="/icons/nginx.png">
+</p>
 
 <!--
 **spanishairman/spanishairman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
