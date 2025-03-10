@@ -1,5 +1,15 @@
 ## Hi there, I'm Max 👋
-<p>
+<style>
+ .thumb img  {
+  border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
+  padding: 15px; /* Расстояние от картинки до рамки */
+  background: #666; /* Цвет фона */
+  margin-right: 10px; /* Отступ справа */
+  margin-bottom: 10px; /* Отступ снизу */
+ }
+</style>
+
+<p class="thumb">
 <img height="45" width="45" src="/icons/linux.png">
 <img height="45" width="45" src="/icons/debian.png">
 <img height="45" width="45" src="/icons/opensuse.png">
