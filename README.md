@@ -11,7 +11,7 @@
 <img height="45" width="45" src="/icons/nginx.png" alt="Nginx">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=spanishairman)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=spanishairman" alt="GitHub Streak" /></a>
 
 <!--
 **spanishairman/spanishairman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
